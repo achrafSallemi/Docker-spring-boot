@@ -1,4 +1,4 @@
-package com.dockerforjavadevelopers.hello;
+package com.dockerforjavadevelopers.hello.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
@@ -9,7 +9,7 @@ public class HelloController {
     
     @GetMapping("/")
     public String index() {
-        return "Hello Worllllld\n";
+        return "Hello Worlllllddddd\n";
     }
 
     @GetMapping("/ddddd")
