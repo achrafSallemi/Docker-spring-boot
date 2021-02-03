@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: spring-boot-starter-2.2.1.RELEASE.jar spring-context-5.2.1.R
+ ELEASE.jar classmate-1.5.1.jar spring-webmvc-5.2.1.RELEASE.jar jackson-
+ annotations-2.10.0.jar attoparser-2.0.5.RELEASE.jar qdox-2.0-M8.jar spr
+ ing-boot-starter-thymeleaf-2.2.1.RELEASE.jar maven-model-3.0.jar spring
+ -web-5.2.1.RELEASE.jar aether-impl-1.7.jar spring-boot-starter-web-2.2.
+ 1.RELEASE.jar maven-plugin-api-3.0.jar plexus-classworlds-2.2.3.jar spr
+ ing-aop-5.2.1.RELEASE.jar tomcat-embed-websocket-9.0.27.jar spring-core
+ -5.2.1.RELEASE.jar maven-settings-builder-3.0.jar thymeleaf-3.0.11.RELE
+ ASE.jar maven-compiler-plugin-3.8.1.jar snakeyaml-1.25.jar spring-jcl-5
+ .2.1.RELEASE.jar maven-shared-utils-3.2.1.jar thymeleaf-spring5-3.0.11.
+ RELEASE.jar logback-classic-1.2.3.jar maven-core-3.0.jar log4j-api-2.12
+ .1.jar plexus-component-annotations-1.5.5.jar spring-boot-2.2.1.RELEASE
+ .jar spring-boot-starter-validation-2.2.1.RELEASE.jar spring-boot-start
+ er-tomcat-2.2.1.RELEASE.jar log4j-to-slf4j-2.12.1.jar spring-boot-start
+ er-logging-2.2.1.RELEASE.jar maven-model-builder-3.0.jar hibernate-vali
+ dator-6.0.18.Final.jar jackson-datatype-jdk8-2.10.0.jar thymeleaf-extra
+ s-java8time-3.0.4.RELEASE.jar tomcat-embed-core-9.0.27.jar slf4j-api-1.
+ 7.29.jar jackson-module-parameter-names-2.10.0.jar maven-repository-met
+ adata-3.0.jar asm-6.2.jar spring-boot-autoconfigure-2.2.1.RELEASE.jar j
+ akarta.validation-api-2.0.1.jar unbescape-1.1.6.RELEASE.jar jackson-dat
+ abind-2.10.0.jar plexus-compiler-manager-2.8.4.jar sisu-inject-plexus-1
+ .4.2.jar aether-api-1.7.jar plexus-sec-dispatcher-1.3.jar spring-boot-s
+ tarter-json-2.2.1.RELEASE.jar maven-settings-3.0.jar maven-aether-provi
+ der-3.0.jar plexus-utils-2.0.4.jar tomcat-embed-el-9.0.27.jar plexus-co
+ mpiler-api-2.8.4.jar spring-expression-5.2.1.RELEASE.jar aether-util-1.
+ 7.jar maven-artifact-3.0.jar logback-core-1.2.3.jar aether-spi-1.7.jar 
+ plexus-java-0.9.10.jar jul-to-slf4j-1.7.29.jar plexus-compiler-javac-2.
+ 8.4.jar commons-io-2.5.jar jakarta.annotation-api-1.3.5.jar plexus-inte
+ rpolation-1.14.jar maven-shared-incremental-1.1.jar jackson-core-2.10.0
+ .jar sisu-guice-2.1.7-noaop.jar plexus-cipher-1.4.jar spring-beans-5.2.
+ 1.RELEASE.jar jackson-datatype-jsr310-2.10.0.jar sisu-inject-bean-1.4.2
+ .jar jboss-logging-3.4.1.Final.jar
+

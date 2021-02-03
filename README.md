@@ -15,12 +15,12 @@ Optional:
 
 ##### Clone source code from git
 ```
-$  git clone https://github.com/dstar55/docker-hello-world-spring-boot .
+git clone https://github.com/achrafSallemi/Docker-spring-boot .
 ```
 
 ##### Build Docker image
 ```
-$ docker build -t="hello-world-java" .
+docker build -t="hello-world-java" .
 ```
 Maven build will be executes during creation of the docker image.
 
@@ -28,13 +28,13 @@ Maven build will be executes during creation of the docker image.
 
 ##### Run Docker Container
 ```
-$ docker run -p 8080:8080 -it --rm hello-world-java
+docker run -p 8080:8080 -it --rm hello-world-java
 ```
 
 ##### Test application
 
 ```
-$ curl localhost:8080
+curl localhost:8080
 ```
 
 the respone should be:
@@ -52,16 +52,16 @@ docker stop `docker container ls | grep "hello-world-java:*" | awk '{ print $1 }
 Build and start the container by running 
 
 ```
-$ docker-compose up -d 
+docker-compose up -d 
 ```
 
 ##### Test application with ***curl*** command
 
 ```
-$ curl localhost:8080
+curl localhost:8080
 ```
 
-the respone should be:
+the response should be:
 ```
 Hello World
 ```
@@ -70,3 +70,9 @@ Hello World
 ```
 docker-compose down
 ```
+
+##### Access Docker container:
+```
+docker exec -it a2e1ed351d25 /bin/sh
+```
+
